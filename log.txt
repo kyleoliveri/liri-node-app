@@ -216,3 +216,2028 @@ Name of the Venue: Carioca Club
 Venue Location: São Paulo
 Date of the Event: 2019-06-09T19:00:19
 *****************************
+-----------------------
+If you haven't watched 'Mr. Nobody,' then you should: http://www.imdb.com/title/tt0485947/
+It's on Netflix!
+**********MOVIE INFO*********
+Title: Mr. Nobody
+Release Year: 2009
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: 67%
+Country of Production: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+*****************************
+**********EVENT INFO*********
+0
+Name of the Venue: PlayStation Theater
+Venue Location: New York
+Date of the Event: 2019-04-12T19:00:38
+*****************************
+**********EVENT INFO*********
+1
+Name of the Venue: Franklin Music Hall
+Venue Location: Philadelphia
+Date of the Event: 2019-04-13T19:00:18
+*****************************
+**********EVENT INFO*********
+2
+Name of the Venue: The Palladium
+Venue Location: Worcester
+Date of the Event: 2019-04-14T19:00:50
+*****************************
+**********EVENT INFO*********
+3
+Name of the Venue: Agora Theater
+Venue Location: Cleveland
+Date of the Event: 2019-04-16T19:00:31
+*****************************
+**********EVENT INFO*********
+4
+Name of the Venue: Royal Oak Music Theatre
+Venue Location: Royal Oak
+Date of the Event: 2019-04-17T19:00:28
+*****************************
+**********EVENT INFO*********
+5
+Name of the Venue: House of Blues
+Venue Location: Chicago
+Date of the Event: 2019-04-18T19:00:12
+*****************************
+**********EVENT INFO*********
+6
+Name of the Venue: House of Blues
+Venue Location: Chicago
+Date of the Event: 2019-04-19T19:00:45
+*****************************
+**********EVENT INFO*********
+7
+Name of the Venue: EXPRESS LIVE!
+Venue Location: Columbus
+Date of the Event: 2019-04-20T19:00:57
+*****************************
+**********EVENT INFO*********
+8
+Name of the Venue: Plaza Condesa
+Venue Location: Mexico City
+Date of the Event: 2019-06-02T19:00:26
+*****************************
+**********EVENT INFO*********
+9
+Name of the Venue: Ace Of Spades
+Venue Location: Bogotá
+Date of the Event: 2019-06-04T19:00:16
+*****************************
+**********EVENT INFO*********
+10
+Name of the Venue: Teatro Flores
+Venue Location: Buenos Aires
+Date of the Event: 2019-06-06T19:00:04
+*****************************
+**********EVENT INFO*********
+11
+Name of the Venue: Blondie
+Venue Location: Santiago
+Date of the Event: 2019-06-07T19:00:55
+*****************************
+**********EVENT INFO*********
+12
+Name of the Venue: Carioca Club
+Venue Location: São Paulo
+Date of the Event: 2019-06-09T19:00:19
+*****************************
+**********SONG INFO*********
+0
+song name: Reptile
+preview song: https://p.scdn.co/mp3-preview/ad70c81531531a3496270828b18db2a5b474375b?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Periphery IV: HAIL STAN
+artist(s): Periphery
+*****************************
+**********SONG INFO*********
+1
+song name: Reptile's Theme
+preview song: null
+album: Reptile's Theme
+artist(s): Skrillex
+*****************************
+**********SONG INFO*********
+2
+song name: Reptile
+preview song: https://p.scdn.co/mp3-preview/8117adeb42c170c35d799dc627d8615cba950149?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Starfish
+artist(s): The Church
+*****************************
+**********SONG INFO*********
+3
+song name: Witch Savanna
+preview song: https://p.scdn.co/mp3-preview/8153af659d36e84a70154f7d431e1ede63ed5f30?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Witch Savanna
+artist(s): Grandayy
+*****************************
+**********SONG INFO*********
+4
+song name: Reptile
+preview song: https://p.scdn.co/mp3-preview/7130b45dc9a59eb32932fa9e0aa54aa85a766234?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Instinct
+artist(s): SunSquabi
+*****************************
+**********SONG INFO*********
+5
+song name: Love Me Like a Reptile
+preview song: https://p.scdn.co/mp3-preview/e6cdb078b0a9dcd74ce13a1d7356865c9b13d5dc?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Ace of Spades (Expanded Edition)
+artist(s): Motörhead
+*****************************
+**********SONG INFO*********
+6
+song name: Reptile
+preview song: https://p.scdn.co/mp3-preview/a2f2d844d40cc43b1d4574c0ea08abede27cc6a0?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Reptile
+artist(s): Thornhill
+*****************************
+**********SONG INFO*********
+7
+song name: Reptile
+preview song: https://p.scdn.co/mp3-preview/0c3e38f383ae09831fa2e4bea2c5362ba60a62a7?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Reptile
+artist(s): Crashdiet
+*****************************
+**********SONG INFO*********
+8
+song name: My Queen Is Harriet Tubman
+preview song: null
+album: Your Queen Is A Reptile
+artist(s): Sons Of Kemet
+*****************************
+**********SONG INFO*********
+9
+song name: A Reptile's Dysfunction
+preview song: https://p.scdn.co/mp3-preview/0a73537ea08af3964f9577ae651ee6382c223971?cid=d50e4e63394e4eb2a9d5793679d49718
+album: The Predator
+artist(s): Ice Nine Kills
+*****************************
+**********SONG INFO*********
+10
+song name: My Queen Is Ada Eastman
+preview song: null
+album: Your Queen Is A Reptile
+artist(s): Sons Of Kemet
+*****************************
+**********SONG INFO*********
+11
+song name: Gamer Time
+preview song: https://p.scdn.co/mp3-preview/79d771c5796ba12d6adb08719c95f4c8857a730b?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Gamer Time
+artist(s): Grandayy
+*****************************
+**********SONG INFO*********
+12
+song name: Reptile Show
+preview song: https://p.scdn.co/mp3-preview/5df6b0aee499ba1c4c89b7dd17f2ab8288f2d0b7?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Reptile Show
+artist(s): Slim Wednesday
+*****************************
+**********SONG INFO*********
+13
+song name: To Trixie And Reptile, Thanks For Everything
+preview song: https://p.scdn.co/mp3-preview/539ea9bd04b5964c299b06d15af7fe2f539f3f25?cid=d50e4e63394e4eb2a9d5793679d49718
+album: All's Well That Ends Well
+artist(s): Chiodos
+*****************************
+**********SONG INFO*********
+14
+song name: Reptile's Theme
+preview song: null
+album: Mortal Kombat: Songs Inspired By The Warriors
+artist(s): Skrillex
+*****************************
+**********SONG INFO*********
+15
+song name: Reptile
+preview song: https://p.scdn.co/mp3-preview/9ae1a73793e61934efbf8bc822f40544fe21d4c9?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Cannibal
+artist(s): Static-X
+*****************************
+**********SONG INFO*********
+16
+song name: Reptile
+preview song: https://p.scdn.co/mp3-preview/a2f2d844d40cc43b1d4574c0ea08abede27cc6a0?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Butterfly
+artist(s): Thornhill
+*****************************
+**********SONG INFO*********
+17
+song name: My Queen Is Anna Julia Cooper
+preview song: null
+album: Your Queen Is A Reptile
+artist(s): Sons Of Kemet
+*****************************
+**********SONG INFO*********
+18
+song name: My Queen Is Mamie Phipps Clark
+preview song: null
+album: Your Queen Is A Reptile
+artist(s): Sons Of Kemet
+*****************************
+**********SONG INFO*********
+19
+song name: Reptile
+preview song: https://p.scdn.co/mp3-preview/95a185b5bd813826baf5eed516970022acf32e4d?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Starfish (Deluxe Edition)
+artist(s): The Church
+*****************************
+-----------------------
+If you haven't watched 'Mr. Nobody,' then you should: http://www.imdb.com/title/tt0485947/
+It's on Netflix!
+**********MOVIE INFO*********
+Title: Mr. Nobody
+Release Year: 2009
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: 67%
+Country of Production: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+*****************************
+**********SONG INFO*********
+0
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=d50e4e63394e4eb2a9d5793679d49718
+album: The Hits--Chapter One
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+1
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Millennium
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+2
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Covers Part IV
+artist(s): Anthem Lights
+*****************************
+**********SONG INFO*********
+3
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Beautiful Dreams
+artist(s): Tyler and Mark
+*****************************
+**********SONG INFO*********
+4
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=d50e4e63394e4eb2a9d5793679d49718
+album: I Want It That Way
+artist(s): Mick Jensen
+*****************************
+**********SONG INFO*********
+5
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Poodle Hat
+artist(s): "Weird Al" Yankovic
+*****************************
+**********SONG INFO*********
+6
+song name: I Want It That Way
+preview song: null
+album: Punk Goes Pop
+artist(s): Dynamite Boy
+*****************************
+**********SONG INFO*********
+7
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=d50e4e63394e4eb2a9d5793679d49718
+album: 90 Sweet 90s Hits!
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+8
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=d50e4e63394e4eb2a9d5793679d49718
+album: NKOTBSB
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+9
+song name: I Want It That Way
+preview song: null
+album: I Want It That Way
+artist(s): Steel Panther
+*****************************
+**********SONG INFO*********
+10
+song name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+preview song: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+artist(s): Glee Cast
+*****************************
+**********SONG INFO*********
+11
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Cover Sessions, Vol. 2
+artist(s): Boyce Avenue
+*****************************
+**********SONG INFO*********
+12
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=d50e4e63394e4eb2a9d5793679d49718
+album: I Want It That Way
+artist(s): Manuel Costa
+*****************************
+**********SONG INFO*********
+13
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Nu Funk
+artist(s): Scary Pockets
+*****************************
+**********SONG INFO*********
+14
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/e917efb886afa262114a59cbdbdb6fe8bef57583?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Ballads in Bossa (The Colors of Love Ballads)
+artist(s): Marcelo Rezende
+*****************************
+**********SONG INFO*********
+15
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Selfies on Kodachrome
+artist(s): Scott Bradlee's Postmodern Jukebox
+*****************************
+**********SONG INFO*********
+16
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=d50e4e63394e4eb2a9d5793679d49718
+album: The Essential "Weird Al" Yankovic
+artist(s): "Weird Al" Yankovic
+*****************************
+**********SONG INFO*********
+17
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/c9302062adf4f59e60335f30c7ca46b487a267fb?cid=d50e4e63394e4eb2a9d5793679d49718
+album: NOW That's What I Call 90s Pop
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+18
+song name: I Want It That Way
+preview song: null
+album: Kidz Bop
+artist(s): Kidz Bop Kids
+*****************************
+**********SONG INFO*********
+19
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/4722ade5be55bf642f5cc9578b94c092a0fcf3a7?cid=d50e4e63394e4eb2a9d5793679d49718
+album: #90s Update
+artist(s): #90s Update
+*****************************
+**********EVENT INFO*********
+0
+Name of the Venue: PlayStation Theater
+Venue Location: New York
+Date of the Event: 2019-04-12T19:00:38
+*****************************
+**********EVENT INFO*********
+1
+Name of the Venue: Franklin Music Hall
+Venue Location: Philadelphia
+Date of the Event: 2019-04-13T19:00:18
+*****************************
+**********EVENT INFO*********
+2
+Name of the Venue: The Palladium
+Venue Location: Worcester
+Date of the Event: 2019-04-14T19:00:50
+*****************************
+**********EVENT INFO*********
+3
+Name of the Venue: Agora Theater
+Venue Location: Cleveland
+Date of the Event: 2019-04-16T19:00:31
+*****************************
+**********EVENT INFO*********
+4
+Name of the Venue: Royal Oak Music Theatre
+Venue Location: Royal Oak
+Date of the Event: 2019-04-17T19:00:28
+*****************************
+**********EVENT INFO*********
+5
+Name of the Venue: House of Blues
+Venue Location: Chicago
+Date of the Event: 2019-04-18T19:00:12
+*****************************
+**********EVENT INFO*********
+6
+Name of the Venue: House of Blues
+Venue Location: Chicago
+Date of the Event: 2019-04-19T19:00:45
+*****************************
+**********EVENT INFO*********
+7
+Name of the Venue: EXPRESS LIVE!
+Venue Location: Columbus
+Date of the Event: 2019-04-20T19:00:57
+*****************************
+**********EVENT INFO*********
+8
+Name of the Venue: Plaza Condesa
+Venue Location: Mexico City
+Date of the Event: 2019-06-02T19:00:26
+*****************************
+**********EVENT INFO*********
+9
+Name of the Venue: Ace Of Spades
+Venue Location: Bogotá
+Date of the Event: 2019-06-04T19:00:16
+*****************************
+**********EVENT INFO*********
+10
+Name of the Venue: Teatro Flores
+Venue Location: Buenos Aires
+Date of the Event: 2019-06-06T19:00:04
+*****************************
+**********EVENT INFO*********
+11
+Name of the Venue: Blondie
+Venue Location: Santiago
+Date of the Event: 2019-06-07T19:00:55
+*****************************
+**********EVENT INFO*********
+12
+Name of the Venue: Carioca Club
+Venue Location: São Paulo
+Date of the Event: 2019-06-09T19:00:19
+*****************************
+**********SONG INFO*********
+0
+song name: Reptile
+preview song: https://p.scdn.co/mp3-preview/ad70c81531531a3496270828b18db2a5b474375b?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Periphery IV: HAIL STAN
+artist(s): Periphery
+*****************************
+**********SONG INFO*********
+1
+song name: Reptile's Theme
+preview song: null
+album: Reptile's Theme
+artist(s): Skrillex
+*****************************
+**********SONG INFO*********
+2
+song name: Reptile
+preview song: https://p.scdn.co/mp3-preview/8117adeb42c170c35d799dc627d8615cba950149?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Starfish
+artist(s): The Church
+*****************************
+**********SONG INFO*********
+3
+song name: Witch Savanna
+preview song: https://p.scdn.co/mp3-preview/8153af659d36e84a70154f7d431e1ede63ed5f30?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Witch Savanna
+artist(s): Grandayy
+*****************************
+**********SONG INFO*********
+4
+song name: Reptile
+preview song: https://p.scdn.co/mp3-preview/7130b45dc9a59eb32932fa9e0aa54aa85a766234?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Instinct
+artist(s): SunSquabi
+*****************************
+**********SONG INFO*********
+5
+song name: Love Me Like a Reptile
+preview song: https://p.scdn.co/mp3-preview/e6cdb078b0a9dcd74ce13a1d7356865c9b13d5dc?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Ace of Spades (Expanded Edition)
+artist(s): Motörhead
+*****************************
+**********SONG INFO*********
+6
+song name: Reptile
+preview song: https://p.scdn.co/mp3-preview/a2f2d844d40cc43b1d4574c0ea08abede27cc6a0?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Reptile
+artist(s): Thornhill
+*****************************
+**********SONG INFO*********
+7
+song name: Reptile
+preview song: https://p.scdn.co/mp3-preview/0c3e38f383ae09831fa2e4bea2c5362ba60a62a7?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Reptile
+artist(s): Crashdiet
+*****************************
+**********SONG INFO*********
+8
+song name: My Queen Is Harriet Tubman
+preview song: null
+album: Your Queen Is A Reptile
+artist(s): Sons Of Kemet
+*****************************
+**********SONG INFO*********
+9
+song name: A Reptile's Dysfunction
+preview song: https://p.scdn.co/mp3-preview/0a73537ea08af3964f9577ae651ee6382c223971?cid=d50e4e63394e4eb2a9d5793679d49718
+album: The Predator
+artist(s): Ice Nine Kills
+*****************************
+**********SONG INFO*********
+10
+song name: My Queen Is Ada Eastman
+preview song: null
+album: Your Queen Is A Reptile
+artist(s): Sons Of Kemet
+*****************************
+**********SONG INFO*********
+11
+song name: Gamer Time
+preview song: https://p.scdn.co/mp3-preview/79d771c5796ba12d6adb08719c95f4c8857a730b?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Gamer Time
+artist(s): Grandayy
+*****************************
+**********SONG INFO*********
+12
+song name: Reptile Show
+preview song: https://p.scdn.co/mp3-preview/5df6b0aee499ba1c4c89b7dd17f2ab8288f2d0b7?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Reptile Show
+artist(s): Slim Wednesday
+*****************************
+**********SONG INFO*********
+13
+song name: To Trixie And Reptile, Thanks For Everything
+preview song: https://p.scdn.co/mp3-preview/539ea9bd04b5964c299b06d15af7fe2f539f3f25?cid=d50e4e63394e4eb2a9d5793679d49718
+album: All's Well That Ends Well
+artist(s): Chiodos
+*****************************
+**********SONG INFO*********
+14
+song name: Reptile's Theme
+preview song: null
+album: Mortal Kombat: Songs Inspired By The Warriors
+artist(s): Skrillex
+*****************************
+**********SONG INFO*********
+15
+song name: Reptile
+preview song: https://p.scdn.co/mp3-preview/9ae1a73793e61934efbf8bc822f40544fe21d4c9?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Cannibal
+artist(s): Static-X
+*****************************
+**********SONG INFO*********
+16
+song name: Reptile
+preview song: https://p.scdn.co/mp3-preview/a2f2d844d40cc43b1d4574c0ea08abede27cc6a0?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Butterfly
+artist(s): Thornhill
+*****************************
+**********SONG INFO*********
+17
+song name: My Queen Is Anna Julia Cooper
+preview song: null
+album: Your Queen Is A Reptile
+artist(s): Sons Of Kemet
+*****************************
+**********SONG INFO*********
+18
+song name: My Queen Is Mamie Phipps Clark
+preview song: null
+album: Your Queen Is A Reptile
+artist(s): Sons Of Kemet
+*****************************
+**********SONG INFO*********
+19
+song name: Reptile
+preview song: https://p.scdn.co/mp3-preview/95a185b5bd813826baf5eed516970022acf32e4d?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Starfish (Deluxe Edition)
+artist(s): The Church
+*****************************
+**********SONG INFO*********
+0
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=d50e4e63394e4eb2a9d5793679d49718
+album: The Hits--Chapter One
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+1
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Millennium
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+2
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Covers Part IV
+artist(s): Anthem Lights
+*****************************
+**********SONG INFO*********
+3
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Beautiful Dreams
+artist(s): Tyler and Mark
+*****************************
+**********SONG INFO*********
+4
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=d50e4e63394e4eb2a9d5793679d49718
+album: I Want It That Way
+artist(s): Mick Jensen
+*****************************
+**********SONG INFO*********
+5
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Poodle Hat
+artist(s): "Weird Al" Yankovic
+*****************************
+**********SONG INFO*********
+6
+song name: I Want It That Way
+preview song: null
+album: Punk Goes Pop
+artist(s): Dynamite Boy
+*****************************
+**********SONG INFO*********
+7
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=d50e4e63394e4eb2a9d5793679d49718
+album: 90 Sweet 90s Hits!
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+8
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=d50e4e63394e4eb2a9d5793679d49718
+album: NKOTBSB
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+9
+song name: I Want It That Way
+preview song: null
+album: I Want It That Way
+artist(s): Steel Panther
+*****************************
+**********SONG INFO*********
+10
+song name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+preview song: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+artist(s): Glee Cast
+*****************************
+**********SONG INFO*********
+11
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Cover Sessions, Vol. 2
+artist(s): Boyce Avenue
+*****************************
+**********SONG INFO*********
+12
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=d50e4e63394e4eb2a9d5793679d49718
+album: I Want It That Way
+artist(s): Manuel Costa
+*****************************
+**********SONG INFO*********
+13
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Nu Funk
+artist(s): Scary Pockets
+*****************************
+**********SONG INFO*********
+14
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/e917efb886afa262114a59cbdbdb6fe8bef57583?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Ballads in Bossa (The Colors of Love Ballads)
+artist(s): Marcelo Rezende
+*****************************
+**********SONG INFO*********
+15
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Selfies on Kodachrome
+artist(s): Scott Bradlee's Postmodern Jukebox
+*****************************
+**********SONG INFO*********
+16
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=d50e4e63394e4eb2a9d5793679d49718
+album: The Essential "Weird Al" Yankovic
+artist(s): "Weird Al" Yankovic
+*****************************
+**********SONG INFO*********
+17
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/c9302062adf4f59e60335f30c7ca46b487a267fb?cid=d50e4e63394e4eb2a9d5793679d49718
+album: NOW That's What I Call 90s Pop
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+18
+song name: I Want It That Way
+preview song: null
+album: Kidz Bop
+artist(s): Kidz Bop Kids
+*****************************
+**********SONG INFO*********
+19
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/4722ade5be55bf642f5cc9578b94c092a0fcf3a7?cid=d50e4e63394e4eb2a9d5793679d49718
+album: #90s Update
+artist(s): #90s Update
+*****************************
+**********MOVIE INFO*********
+Title: Moana
+Release Year: 2016
+IMDB Rating: 7.6
+Rotten Tomatoes Rating: 95%
+Country of Production: USA
+Language: English
+Plot: In Ancient Polynesia, when a terrible curse incurred by the Demigod Maui reaches Moana's island, she answers the Ocean's call to seek out the Demigod to set things right.
+Actors: Auli'i Cravalho, Dwayne Johnson, Rachel House, Temuera Morrison
+*****************************
+-----------------------
+If you haven't watched 'Mr. Nobody,' then you should: http://www.imdb.com/title/tt0485947/
+It's on Netflix!
+**********MOVIE INFO*********
+Title: Mr. Nobody
+Release Year: 2009
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: 67%
+Country of Production: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+*****************************
+**********SONG INFO*********
+0
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=d50e4e63394e4eb2a9d5793679d49718
+album: The Hits--Chapter One
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+1
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Millennium
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+2
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Covers Part IV
+artist(s): Anthem Lights
+*****************************
+**********SONG INFO*********
+3
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Beautiful Dreams
+artist(s): Tyler and Mark
+*****************************
+**********SONG INFO*********
+4
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=d50e4e63394e4eb2a9d5793679d49718
+album: I Want It That Way
+artist(s): Mick Jensen
+*****************************
+**********SONG INFO*********
+5
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Poodle Hat
+artist(s): "Weird Al" Yankovic
+*****************************
+**********SONG INFO*********
+6
+song name: I Want It That Way
+preview song: null
+album: Punk Goes Pop
+artist(s): Dynamite Boy
+*****************************
+**********SONG INFO*********
+7
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=d50e4e63394e4eb2a9d5793679d49718
+album: 90 Sweet 90s Hits!
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+8
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=d50e4e63394e4eb2a9d5793679d49718
+album: NKOTBSB
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+9
+song name: I Want It That Way
+preview song: null
+album: I Want It That Way
+artist(s): Steel Panther
+*****************************
+**********SONG INFO*********
+10
+song name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+preview song: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+artist(s): Glee Cast
+*****************************
+**********SONG INFO*********
+11
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Cover Sessions, Vol. 2
+artist(s): Boyce Avenue
+*****************************
+**********SONG INFO*********
+12
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=d50e4e63394e4eb2a9d5793679d49718
+album: I Want It That Way
+artist(s): Manuel Costa
+*****************************
+**********SONG INFO*********
+13
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Nu Funk
+artist(s): Scary Pockets
+*****************************
+**********SONG INFO*********
+14
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/e917efb886afa262114a59cbdbdb6fe8bef57583?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Ballads in Bossa (The Colors of Love Ballads)
+artist(s): Marcelo Rezende
+*****************************
+**********SONG INFO*********
+15
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Selfies on Kodachrome
+artist(s): Scott Bradlee's Postmodern Jukebox
+*****************************
+**********SONG INFO*********
+16
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=d50e4e63394e4eb2a9d5793679d49718
+album: The Essential "Weird Al" Yankovic
+artist(s): "Weird Al" Yankovic
+*****************************
+**********SONG INFO*********
+17
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/c9302062adf4f59e60335f30c7ca46b487a267fb?cid=d50e4e63394e4eb2a9d5793679d49718
+album: NOW That's What I Call 90s Pop
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+18
+song name: I Want It That Way
+preview song: null
+album: Kidz Bop
+artist(s): Kidz Bop Kids
+*****************************
+**********SONG INFO*********
+19
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/4722ade5be55bf642f5cc9578b94c092a0fcf3a7?cid=d50e4e63394e4eb2a9d5793679d49718
+album: #90s Update
+artist(s): #90s Update
+*****************************
+**********EVENT INFO*********
+0
+Name of the Venue: PlayStation Theater
+Venue Location: New York
+Date of the Event: 2019-04-12T19:00:38
+*****************************
+**********EVENT INFO*********
+1
+Name of the Venue: Franklin Music Hall
+Venue Location: Philadelphia
+Date of the Event: 2019-04-13T19:00:18
+*****************************
+**********EVENT INFO*********
+2
+Name of the Venue: The Palladium
+Venue Location: Worcester
+Date of the Event: 2019-04-14T19:00:50
+*****************************
+**********EVENT INFO*********
+3
+Name of the Venue: Agora Theater
+Venue Location: Cleveland
+Date of the Event: 2019-04-16T19:00:31
+*****************************
+**********EVENT INFO*********
+4
+Name of the Venue: Royal Oak Music Theatre
+Venue Location: Royal Oak
+Date of the Event: 2019-04-17T19:00:28
+*****************************
+**********EVENT INFO*********
+5
+Name of the Venue: House of Blues
+Venue Location: Chicago
+Date of the Event: 2019-04-18T19:00:12
+*****************************
+**********EVENT INFO*********
+6
+Name of the Venue: House of Blues
+Venue Location: Chicago
+Date of the Event: 2019-04-19T19:00:45
+*****************************
+**********EVENT INFO*********
+7
+Name of the Venue: EXPRESS LIVE!
+Venue Location: Columbus
+Date of the Event: 2019-04-20T19:00:57
+*****************************
+**********EVENT INFO*********
+8
+Name of the Venue: Plaza Condesa
+Venue Location: Mexico City
+Date of the Event: 2019-06-02T19:00:26
+*****************************
+**********EVENT INFO*********
+9
+Name of the Venue: Ace Of Spades
+Venue Location: Bogotá
+Date of the Event: 2019-06-04T19:00:16
+*****************************
+**********EVENT INFO*********
+10
+Name of the Venue: Teatro Flores
+Venue Location: Buenos Aires
+Date of the Event: 2019-06-06T19:00:04
+*****************************
+**********EVENT INFO*********
+11
+Name of the Venue: Blondie
+Venue Location: Santiago
+Date of the Event: 2019-06-07T19:00:55
+*****************************
+**********EVENT INFO*********
+12
+Name of the Venue: Carioca Club
+Venue Location: São Paulo
+Date of the Event: 2019-06-09T19:00:19
+*****************************
+**********EVENT INFO*********
+0
+Name of the Venue: PlayStation Theater
+Venue Location: New York
+Date of the Event: 2019-04-12T19:00:38
+*****************************
+**********EVENT INFO*********
+1
+Name of the Venue: Franklin Music Hall
+Venue Location: Philadelphia
+Date of the Event: 2019-04-13T19:00:18
+*****************************
+**********EVENT INFO*********
+2
+Name of the Venue: The Palladium
+Venue Location: Worcester
+Date of the Event: 2019-04-14T19:00:50
+*****************************
+**********EVENT INFO*********
+3
+Name of the Venue: Agora Theater
+Venue Location: Cleveland
+Date of the Event: 2019-04-16T19:00:31
+*****************************
+**********EVENT INFO*********
+4
+Name of the Venue: Royal Oak Music Theatre
+Venue Location: Royal Oak
+Date of the Event: 2019-04-17T19:00:28
+*****************************
+**********EVENT INFO*********
+5
+Name of the Venue: House of Blues
+Venue Location: Chicago
+Date of the Event: 2019-04-18T19:00:12
+*****************************
+**********EVENT INFO*********
+6
+Name of the Venue: House of Blues
+Venue Location: Chicago
+Date of the Event: 2019-04-19T19:00:45
+*****************************
+**********EVENT INFO*********
+7
+Name of the Venue: EXPRESS LIVE!
+Venue Location: Columbus
+Date of the Event: 2019-04-20T19:00:57
+*****************************
+**********EVENT INFO*********
+8
+Name of the Venue: Plaza Condesa
+Venue Location: Mexico City
+Date of the Event: 2019-06-02T19:00:26
+*****************************
+**********EVENT INFO*********
+9
+Name of the Venue: Ace Of Spades
+Venue Location: Bogotá
+Date of the Event: 2019-06-04T19:00:16
+*****************************
+**********EVENT INFO*********
+10
+Name of the Venue: Teatro Flores
+Venue Location: Buenos Aires
+Date of the Event: 2019-06-06T19:00:04
+*****************************
+**********EVENT INFO*********
+11
+Name of the Venue: Blondie
+Venue Location: Santiago
+Date of the Event: 2019-06-07T19:00:55
+*****************************
+**********EVENT INFO*********
+12
+Name of the Venue: Carioca Club
+Venue Location: São Paulo
+Date of the Event: 2019-06-09T19:00:19
+*****************************
+**********SONG INFO*********
+0
+song name: Reptile
+preview song: https://p.scdn.co/mp3-preview/ad70c81531531a3496270828b18db2a5b474375b?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Periphery IV: HAIL STAN
+artist(s): Periphery
+*****************************
+**********SONG INFO*********
+1
+song name: Reptile's Theme
+preview song: null
+album: Reptile's Theme
+artist(s): Skrillex
+*****************************
+**********SONG INFO*********
+2
+song name: Reptile
+preview song: https://p.scdn.co/mp3-preview/8117adeb42c170c35d799dc627d8615cba950149?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Starfish
+artist(s): The Church
+*****************************
+**********SONG INFO*********
+3
+song name: Witch Savanna
+preview song: https://p.scdn.co/mp3-preview/8153af659d36e84a70154f7d431e1ede63ed5f30?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Witch Savanna
+artist(s): Grandayy
+*****************************
+**********SONG INFO*********
+4
+song name: Reptile
+preview song: https://p.scdn.co/mp3-preview/7130b45dc9a59eb32932fa9e0aa54aa85a766234?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Instinct
+artist(s): SunSquabi
+*****************************
+**********SONG INFO*********
+5
+song name: Love Me Like a Reptile
+preview song: https://p.scdn.co/mp3-preview/e6cdb078b0a9dcd74ce13a1d7356865c9b13d5dc?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Ace of Spades (Expanded Edition)
+artist(s): Motörhead
+*****************************
+**********SONG INFO*********
+6
+song name: Reptile
+preview song: https://p.scdn.co/mp3-preview/a2f2d844d40cc43b1d4574c0ea08abede27cc6a0?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Reptile
+artist(s): Thornhill
+*****************************
+**********SONG INFO*********
+7
+song name: Reptile
+preview song: https://p.scdn.co/mp3-preview/0c3e38f383ae09831fa2e4bea2c5362ba60a62a7?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Reptile
+artist(s): Crashdiet
+*****************************
+**********SONG INFO*********
+8
+song name: My Queen Is Harriet Tubman
+preview song: null
+album: Your Queen Is A Reptile
+artist(s): Sons Of Kemet
+*****************************
+**********SONG INFO*********
+9
+song name: A Reptile's Dysfunction
+preview song: https://p.scdn.co/mp3-preview/0a73537ea08af3964f9577ae651ee6382c223971?cid=d50e4e63394e4eb2a9d5793679d49718
+album: The Predator
+artist(s): Ice Nine Kills
+*****************************
+**********SONG INFO*********
+10
+song name: My Queen Is Ada Eastman
+preview song: null
+album: Your Queen Is A Reptile
+artist(s): Sons Of Kemet
+*****************************
+**********SONG INFO*********
+11
+song name: Gamer Time
+preview song: https://p.scdn.co/mp3-preview/79d771c5796ba12d6adb08719c95f4c8857a730b?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Gamer Time
+artist(s): Grandayy
+*****************************
+**********SONG INFO*********
+12
+song name: Reptile Show
+preview song: https://p.scdn.co/mp3-preview/5df6b0aee499ba1c4c89b7dd17f2ab8288f2d0b7?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Reptile Show
+artist(s): Slim Wednesday
+*****************************
+**********SONG INFO*********
+13
+song name: To Trixie And Reptile, Thanks For Everything
+preview song: https://p.scdn.co/mp3-preview/539ea9bd04b5964c299b06d15af7fe2f539f3f25?cid=d50e4e63394e4eb2a9d5793679d49718
+album: All's Well That Ends Well
+artist(s): Chiodos
+*****************************
+**********SONG INFO*********
+14
+song name: Reptile's Theme
+preview song: null
+album: Mortal Kombat: Songs Inspired By The Warriors
+artist(s): Skrillex
+*****************************
+**********SONG INFO*********
+15
+song name: Reptile
+preview song: https://p.scdn.co/mp3-preview/9ae1a73793e61934efbf8bc822f40544fe21d4c9?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Cannibal
+artist(s): Static-X
+*****************************
+**********SONG INFO*********
+16
+song name: Reptile
+preview song: https://p.scdn.co/mp3-preview/a2f2d844d40cc43b1d4574c0ea08abede27cc6a0?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Butterfly
+artist(s): Thornhill
+*****************************
+**********SONG INFO*********
+17
+song name: My Queen Is Anna Julia Cooper
+preview song: null
+album: Your Queen Is A Reptile
+artist(s): Sons Of Kemet
+*****************************
+**********SONG INFO*********
+18
+song name: My Queen Is Mamie Phipps Clark
+preview song: null
+album: Your Queen Is A Reptile
+artist(s): Sons Of Kemet
+*****************************
+**********SONG INFO*********
+19
+song name: Reptile
+preview song: https://p.scdn.co/mp3-preview/95a185b5bd813826baf5eed516970022acf32e4d?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Starfish (Deluxe Edition)
+artist(s): The Church
+*****************************
+**********SONG INFO*********
+0
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=d50e4e63394e4eb2a9d5793679d49718
+album: The Hits--Chapter One
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+1
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Millennium
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+2
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Covers Part IV
+artist(s): Anthem Lights
+*****************************
+**********SONG INFO*********
+3
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Beautiful Dreams
+artist(s): Tyler and Mark
+*****************************
+**********SONG INFO*********
+4
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=d50e4e63394e4eb2a9d5793679d49718
+album: I Want It That Way
+artist(s): Mick Jensen
+*****************************
+**********SONG INFO*********
+5
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Poodle Hat
+artist(s): "Weird Al" Yankovic
+*****************************
+**********SONG INFO*********
+6
+song name: I Want It That Way
+preview song: null
+album: Punk Goes Pop
+artist(s): Dynamite Boy
+*****************************
+**********SONG INFO*********
+7
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=d50e4e63394e4eb2a9d5793679d49718
+album: 90 Sweet 90s Hits!
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+8
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=d50e4e63394e4eb2a9d5793679d49718
+album: NKOTBSB
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+9
+song name: I Want It That Way
+preview song: null
+album: I Want It That Way
+artist(s): Steel Panther
+*****************************
+**********SONG INFO*********
+10
+song name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+preview song: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+artist(s): Glee Cast
+*****************************
+**********SONG INFO*********
+11
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Cover Sessions, Vol. 2
+artist(s): Boyce Avenue
+*****************************
+**********SONG INFO*********
+12
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=d50e4e63394e4eb2a9d5793679d49718
+album: I Want It That Way
+artist(s): Manuel Costa
+*****************************
+**********SONG INFO*********
+13
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Nu Funk
+artist(s): Scary Pockets
+*****************************
+**********SONG INFO*********
+14
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/e917efb886afa262114a59cbdbdb6fe8bef57583?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Ballads in Bossa (The Colors of Love Ballads)
+artist(s): Marcelo Rezende
+*****************************
+**********SONG INFO*********
+15
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Selfies on Kodachrome
+artist(s): Scott Bradlee's Postmodern Jukebox
+*****************************
+**********SONG INFO*********
+16
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=d50e4e63394e4eb2a9d5793679d49718
+album: The Essential "Weird Al" Yankovic
+artist(s): "Weird Al" Yankovic
+*****************************
+**********SONG INFO*********
+17
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/c9302062adf4f59e60335f30c7ca46b487a267fb?cid=d50e4e63394e4eb2a9d5793679d49718
+album: NOW That's What I Call 90s Pop
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+18
+song name: I Want It That Way
+preview song: null
+album: Kidz Bop
+artist(s): Kidz Bop Kids
+*****************************
+**********SONG INFO*********
+19
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/4722ade5be55bf642f5cc9578b94c092a0fcf3a7?cid=d50e4e63394e4eb2a9d5793679d49718
+album: #90s Update
+artist(s): #90s Update
+*****************************
+**********MOVIE INFO*********
+Title: Moana
+Release Year: 2016
+IMDB Rating: 7.6
+Rotten Tomatoes Rating: 95%
+Country of Production: USA
+Language: English
+Plot: In Ancient Polynesia, when a terrible curse incurred by the Demigod Maui reaches Moana's island, she answers the Ocean's call to seek out the Demigod to set things right.
+Actors: Auli'i Cravalho, Dwayne Johnson, Rachel House, Temuera Morrison
+*****************************
+-----------------------
+If you haven't watched 'Mr. Nobody,' then you should: http://www.imdb.com/title/tt0485947/
+It's on Netflix!
+**********MOVIE INFO*********
+Title: Mr. Nobody
+Release Year: 2009
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: 67%
+Country of Production: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+*****************************
+**********SONG INFO*********
+0
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=d50e4e63394e4eb2a9d5793679d49718
+album: The Hits--Chapter One
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+1
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Millennium
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+2
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Covers Part IV
+artist(s): Anthem Lights
+*****************************
+**********SONG INFO*********
+3
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Beautiful Dreams
+artist(s): Tyler and Mark
+*****************************
+**********SONG INFO*********
+4
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=d50e4e63394e4eb2a9d5793679d49718
+album: I Want It That Way
+artist(s): Mick Jensen
+*****************************
+**********SONG INFO*********
+5
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Poodle Hat
+artist(s): "Weird Al" Yankovic
+*****************************
+**********SONG INFO*********
+6
+song name: I Want It That Way
+preview song: null
+album: Punk Goes Pop
+artist(s): Dynamite Boy
+*****************************
+**********SONG INFO*********
+7
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=d50e4e63394e4eb2a9d5793679d49718
+album: 90 Sweet 90s Hits!
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+8
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=d50e4e63394e4eb2a9d5793679d49718
+album: NKOTBSB
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+9
+song name: I Want It That Way
+preview song: null
+album: I Want It That Way
+artist(s): Steel Panther
+*****************************
+**********SONG INFO*********
+10
+song name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+preview song: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+artist(s): Glee Cast
+*****************************
+**********SONG INFO*********
+11
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Cover Sessions, Vol. 2
+artist(s): Boyce Avenue
+*****************************
+**********SONG INFO*********
+12
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=d50e4e63394e4eb2a9d5793679d49718
+album: I Want It That Way
+artist(s): Manuel Costa
+*****************************
+**********SONG INFO*********
+13
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Nu Funk
+artist(s): Scary Pockets
+*****************************
+**********SONG INFO*********
+14
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/e917efb886afa262114a59cbdbdb6fe8bef57583?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Ballads in Bossa (The Colors of Love Ballads)
+artist(s): Marcelo Rezende
+*****************************
+**********SONG INFO*********
+15
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Selfies on Kodachrome
+artist(s): Scott Bradlee's Postmodern Jukebox
+*****************************
+**********SONG INFO*********
+16
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=d50e4e63394e4eb2a9d5793679d49718
+album: The Essential "Weird Al" Yankovic
+artist(s): "Weird Al" Yankovic
+*****************************
+**********SONG INFO*********
+17
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/c9302062adf4f59e60335f30c7ca46b487a267fb?cid=d50e4e63394e4eb2a9d5793679d49718
+album: NOW That's What I Call 90s Pop
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+18
+song name: I Want It That Way
+preview song: null
+album: Kidz Bop
+artist(s): Kidz Bop Kids
+*****************************
+**********SONG INFO*********
+19
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/4722ade5be55bf642f5cc9578b94c092a0fcf3a7?cid=d50e4e63394e4eb2a9d5793679d49718
+album: #90s Update
+artist(s): #90s Update
+*****************************
+**********EVENT INFO*********
+0
+Name of the Venue: PlayStation Theater
+Venue Location: New York
+Date of the Event: 2019-04-12T19:00:38
+*****************************
+**********EVENT INFO*********
+1
+Name of the Venue: Franklin Music Hall
+Venue Location: Philadelphia
+Date of the Event: 2019-04-13T19:00:18
+*****************************
+**********EVENT INFO*********
+2
+Name of the Venue: The Palladium
+Venue Location: Worcester
+Date of the Event: 2019-04-14T19:00:50
+*****************************
+**********EVENT INFO*********
+3
+Name of the Venue: Agora Theater
+Venue Location: Cleveland
+Date of the Event: 2019-04-16T19:00:31
+*****************************
+**********EVENT INFO*********
+4
+Name of the Venue: Royal Oak Music Theatre
+Venue Location: Royal Oak
+Date of the Event: 2019-04-17T19:00:28
+*****************************
+**********EVENT INFO*********
+5
+Name of the Venue: House of Blues
+Venue Location: Chicago
+Date of the Event: 2019-04-18T19:00:12
+*****************************
+**********EVENT INFO*********
+6
+Name of the Venue: House of Blues
+Venue Location: Chicago
+Date of the Event: 2019-04-19T19:00:45
+*****************************
+**********EVENT INFO*********
+7
+Name of the Venue: EXPRESS LIVE!
+Venue Location: Columbus
+Date of the Event: 2019-04-20T19:00:57
+*****************************
+**********EVENT INFO*********
+8
+Name of the Venue: Plaza Condesa
+Venue Location: Mexico City
+Date of the Event: 2019-06-02T19:00:26
+*****************************
+**********EVENT INFO*********
+9
+Name of the Venue: Ace Of Spades
+Venue Location: Bogotá
+Date of the Event: 2019-06-04T19:00:16
+*****************************
+**********EVENT INFO*********
+10
+Name of the Venue: Teatro Flores
+Venue Location: Buenos Aires
+Date of the Event: 2019-06-06T19:00:04
+*****************************
+**********EVENT INFO*********
+11
+Name of the Venue: Blondie
+Venue Location: Santiago
+Date of the Event: 2019-06-07T19:00:55
+*****************************
+**********EVENT INFO*********
+12
+Name of the Venue: Carioca Club
+Venue Location: São Paulo
+Date of the Event: 2019-06-09T19:00:19
+*****************************
+**********SONG INFO*********
+0
+song name: Reptile
+preview song: https://p.scdn.co/mp3-preview/ad70c81531531a3496270828b18db2a5b474375b?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Periphery IV: HAIL STAN
+artist(s): Periphery
+*****************************
+**********SONG INFO*********
+1
+song name: Reptile's Theme
+preview song: null
+album: Reptile's Theme
+artist(s): Skrillex
+*****************************
+**********SONG INFO*********
+2
+song name: Reptile
+preview song: https://p.scdn.co/mp3-preview/8117adeb42c170c35d799dc627d8615cba950149?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Starfish
+artist(s): The Church
+*****************************
+**********SONG INFO*********
+3
+song name: Witch Savanna
+preview song: https://p.scdn.co/mp3-preview/8153af659d36e84a70154f7d431e1ede63ed5f30?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Witch Savanna
+artist(s): Grandayy
+*****************************
+**********SONG INFO*********
+4
+song name: Reptile
+preview song: https://p.scdn.co/mp3-preview/7130b45dc9a59eb32932fa9e0aa54aa85a766234?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Instinct
+artist(s): SunSquabi
+*****************************
+**********SONG INFO*********
+5
+song name: Love Me Like a Reptile
+preview song: https://p.scdn.co/mp3-preview/e6cdb078b0a9dcd74ce13a1d7356865c9b13d5dc?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Ace of Spades (Expanded Edition)
+artist(s): Motörhead
+*****************************
+**********SONG INFO*********
+6
+song name: Reptile
+preview song: https://p.scdn.co/mp3-preview/a2f2d844d40cc43b1d4574c0ea08abede27cc6a0?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Reptile
+artist(s): Thornhill
+*****************************
+**********SONG INFO*********
+7
+song name: Reptile
+preview song: https://p.scdn.co/mp3-preview/0c3e38f383ae09831fa2e4bea2c5362ba60a62a7?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Reptile
+artist(s): Crashdiet
+*****************************
+**********SONG INFO*********
+8
+song name: My Queen Is Harriet Tubman
+preview song: null
+album: Your Queen Is A Reptile
+artist(s): Sons Of Kemet
+*****************************
+**********SONG INFO*********
+9
+song name: A Reptile's Dysfunction
+preview song: https://p.scdn.co/mp3-preview/0a73537ea08af3964f9577ae651ee6382c223971?cid=d50e4e63394e4eb2a9d5793679d49718
+album: The Predator
+artist(s): Ice Nine Kills
+*****************************
+**********SONG INFO*********
+10
+song name: My Queen Is Ada Eastman
+preview song: null
+album: Your Queen Is A Reptile
+artist(s): Sons Of Kemet
+*****************************
+**********SONG INFO*********
+11
+song name: Gamer Time
+preview song: https://p.scdn.co/mp3-preview/79d771c5796ba12d6adb08719c95f4c8857a730b?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Gamer Time
+artist(s): Grandayy
+*****************************
+**********SONG INFO*********
+12
+song name: Reptile Show
+preview song: https://p.scdn.co/mp3-preview/5df6b0aee499ba1c4c89b7dd17f2ab8288f2d0b7?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Reptile Show
+artist(s): Slim Wednesday
+*****************************
+**********SONG INFO*********
+13
+song name: To Trixie And Reptile, Thanks For Everything
+preview song: https://p.scdn.co/mp3-preview/539ea9bd04b5964c299b06d15af7fe2f539f3f25?cid=d50e4e63394e4eb2a9d5793679d49718
+album: All's Well That Ends Well
+artist(s): Chiodos
+*****************************
+**********SONG INFO*********
+14
+song name: Reptile's Theme
+preview song: null
+album: Mortal Kombat: Songs Inspired By The Warriors
+artist(s): Skrillex
+*****************************
+**********SONG INFO*********
+15
+song name: Reptile
+preview song: https://p.scdn.co/mp3-preview/9ae1a73793e61934efbf8bc822f40544fe21d4c9?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Cannibal
+artist(s): Static-X
+*****************************
+**********SONG INFO*********
+16
+song name: Reptile
+preview song: https://p.scdn.co/mp3-preview/a2f2d844d40cc43b1d4574c0ea08abede27cc6a0?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Butterfly
+artist(s): Thornhill
+*****************************
+**********SONG INFO*********
+17
+song name: My Queen Is Anna Julia Cooper
+preview song: null
+album: Your Queen Is A Reptile
+artist(s): Sons Of Kemet
+*****************************
+**********SONG INFO*********
+18
+song name: My Queen Is Mamie Phipps Clark
+preview song: null
+album: Your Queen Is A Reptile
+artist(s): Sons Of Kemet
+*****************************
+**********SONG INFO*********
+19
+song name: Reptile
+preview song: https://p.scdn.co/mp3-preview/95a185b5bd813826baf5eed516970022acf32e4d?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Starfish (Deluxe Edition)
+artist(s): The Church
+*****************************
+**********SONG INFO*********
+0
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=d50e4e63394e4eb2a9d5793679d49718
+album: The Hits--Chapter One
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+1
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Millennium
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+2
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Covers Part IV
+artist(s): Anthem Lights
+*****************************
+**********SONG INFO*********
+3
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Beautiful Dreams
+artist(s): Tyler and Mark
+*****************************
+**********SONG INFO*********
+4
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=d50e4e63394e4eb2a9d5793679d49718
+album: I Want It That Way
+artist(s): Mick Jensen
+*****************************
+**********SONG INFO*********
+5
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Poodle Hat
+artist(s): "Weird Al" Yankovic
+*****************************
+**********SONG INFO*********
+6
+song name: I Want It That Way
+preview song: null
+album: Punk Goes Pop
+artist(s): Dynamite Boy
+*****************************
+**********SONG INFO*********
+7
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=d50e4e63394e4eb2a9d5793679d49718
+album: 90 Sweet 90s Hits!
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+8
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=d50e4e63394e4eb2a9d5793679d49718
+album: NKOTBSB
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+9
+song name: I Want It That Way
+preview song: null
+album: I Want It That Way
+artist(s): Steel Panther
+*****************************
+**********SONG INFO*********
+10
+song name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+preview song: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+artist(s): Glee Cast
+*****************************
+**********SONG INFO*********
+11
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Cover Sessions, Vol. 2
+artist(s): Boyce Avenue
+*****************************
+**********SONG INFO*********
+12
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=d50e4e63394e4eb2a9d5793679d49718
+album: I Want It That Way
+artist(s): Manuel Costa
+*****************************
+**********SONG INFO*********
+13
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Nu Funk
+artist(s): Scary Pockets
+*****************************
+**********SONG INFO*********
+14
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/e917efb886afa262114a59cbdbdb6fe8bef57583?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Ballads in Bossa (The Colors of Love Ballads)
+artist(s): Marcelo Rezende
+*****************************
+**********SONG INFO*********
+15
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Selfies on Kodachrome
+artist(s): Scott Bradlee's Postmodern Jukebox
+*****************************
+**********SONG INFO*********
+16
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=d50e4e63394e4eb2a9d5793679d49718
+album: The Essential "Weird Al" Yankovic
+artist(s): "Weird Al" Yankovic
+*****************************
+**********SONG INFO*********
+17
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/c9302062adf4f59e60335f30c7ca46b487a267fb?cid=d50e4e63394e4eb2a9d5793679d49718
+album: NOW That's What I Call 90s Pop
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+18
+song name: I Want It That Way
+preview song: null
+album: Kidz Bop
+artist(s): Kidz Bop Kids
+*****************************
+**********SONG INFO*********
+19
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/4722ade5be55bf642f5cc9578b94c092a0fcf3a7?cid=d50e4e63394e4eb2a9d5793679d49718
+album: #90s Update
+artist(s): #90s Update
+*****************************
+**********MOVIE INFO*********
+Title: Moana
+Release Year: 2016
+IMDB Rating: 7.6
+Rotten Tomatoes Rating: 95%
+Country of Production: USA
+Language: English
+Plot: In Ancient Polynesia, when a terrible curse incurred by the Demigod Maui reaches Moana's island, she answers the Ocean's call to seek out the Demigod to set things right.
+Actors: Auli'i Cravalho, Dwayne Johnson, Rachel House, Temuera Morrison
+*****************************
+-----------------------
+If you haven't watched 'Mr. Nobody,' then you should: http://www.imdb.com/title/tt0485947/
+It's on Netflix!
+**********MOVIE INFO*********
+Title: Mr. Nobody
+Release Year: 2009
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: 67%
+Country of Production: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+*****************************
+**********SONG INFO*********
+0
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=d50e4e63394e4eb2a9d5793679d49718
+album: The Hits--Chapter One
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+1
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Millennium
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+2
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Covers Part IV
+artist(s): Anthem Lights
+*****************************
+**********SONG INFO*********
+3
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Beautiful Dreams
+artist(s): Tyler and Mark
+*****************************
+**********SONG INFO*********
+4
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=d50e4e63394e4eb2a9d5793679d49718
+album: I Want It That Way
+artist(s): Mick Jensen
+*****************************
+**********SONG INFO*********
+5
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Poodle Hat
+artist(s): "Weird Al" Yankovic
+*****************************
+**********SONG INFO*********
+6
+song name: I Want It That Way
+preview song: null
+album: Punk Goes Pop
+artist(s): Dynamite Boy
+*****************************
+**********SONG INFO*********
+7
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=d50e4e63394e4eb2a9d5793679d49718
+album: 90 Sweet 90s Hits!
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+8
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=d50e4e63394e4eb2a9d5793679d49718
+album: NKOTBSB
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+9
+song name: I Want It That Way
+preview song: null
+album: I Want It That Way
+artist(s): Steel Panther
+*****************************
+**********SONG INFO*********
+10
+song name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+preview song: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+artist(s): Glee Cast
+*****************************
+**********SONG INFO*********
+11
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Cover Sessions, Vol. 2
+artist(s): Boyce Avenue
+*****************************
+**********SONG INFO*********
+12
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=d50e4e63394e4eb2a9d5793679d49718
+album: I Want It That Way
+artist(s): Manuel Costa
+*****************************
+**********SONG INFO*********
+13
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Nu Funk
+artist(s): Scary Pockets
+*****************************
+**********SONG INFO*********
+14
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/e917efb886afa262114a59cbdbdb6fe8bef57583?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Ballads in Bossa (The Colors of Love Ballads)
+artist(s): Marcelo Rezende
+*****************************
+**********SONG INFO*********
+15
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Selfies on Kodachrome
+artist(s): Scott Bradlee's Postmodern Jukebox
+*****************************
+**********SONG INFO*********
+16
+song name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+preview song: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=d50e4e63394e4eb2a9d5793679d49718
+album: The Essential "Weird Al" Yankovic
+artist(s): "Weird Al" Yankovic
+*****************************
+**********SONG INFO*********
+17
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/c9302062adf4f59e60335f30c7ca46b487a267fb?cid=d50e4e63394e4eb2a9d5793679d49718
+album: NOW That's What I Call 90s Pop
+artist(s): Backstreet Boys
+*****************************
+**********SONG INFO*********
+18
+song name: I Want It That Way
+preview song: null
+album: Kidz Bop
+artist(s): Kidz Bop Kids
+*****************************
+**********SONG INFO*********
+19
+song name: I Want It That Way
+preview song: https://p.scdn.co/mp3-preview/4722ade5be55bf642f5cc9578b94c092a0fcf3a7?cid=d50e4e63394e4eb2a9d5793679d49718
+album: #90s Update
+artist(s): #90s Update
+*****************************
