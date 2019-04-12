@@ -1,0 +1,218 @@
+**********SONG INFO*********
+0
+song name: Reptile
+preview song: https://p.scdn.co/mp3-preview/ad70c81531531a3496270828b18db2a5b474375b?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Periphery IV: HAIL STAN
+artist(s): Periphery
+*****************************
+**********SONG INFO*********
+1
+song name: Reptile's Theme
+preview song: null
+album: Reptile's Theme
+artist(s): Skrillex
+*****************************
+**********SONG INFO*********
+2
+song name: Reptile
+preview song: https://p.scdn.co/mp3-preview/8117adeb42c170c35d799dc627d8615cba950149?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Starfish
+artist(s): The Church
+*****************************
+**********SONG INFO*********
+3
+song name: Witch Savanna
+preview song: https://p.scdn.co/mp3-preview/8153af659d36e84a70154f7d431e1ede63ed5f30?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Witch Savanna
+artist(s): Grandayy
+*****************************
+**********SONG INFO*********
+4
+song name: Reptile
+preview song: https://p.scdn.co/mp3-preview/7130b45dc9a59eb32932fa9e0aa54aa85a766234?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Instinct
+artist(s): SunSquabi
+*****************************
+**********SONG INFO*********
+5
+song name: Love Me Like a Reptile
+preview song: https://p.scdn.co/mp3-preview/e6cdb078b0a9dcd74ce13a1d7356865c9b13d5dc?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Ace of Spades (Expanded Edition)
+artist(s): Motörhead
+*****************************
+**********SONG INFO*********
+6
+song name: Reptile
+preview song: https://p.scdn.co/mp3-preview/a2f2d844d40cc43b1d4574c0ea08abede27cc6a0?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Reptile
+artist(s): Thornhill
+*****************************
+**********SONG INFO*********
+7
+song name: Reptile
+preview song: https://p.scdn.co/mp3-preview/0c3e38f383ae09831fa2e4bea2c5362ba60a62a7?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Reptile
+artist(s): Crashdiet
+*****************************
+**********SONG INFO*********
+8
+song name: My Queen Is Harriet Tubman
+preview song: null
+album: Your Queen Is A Reptile
+artist(s): Sons Of Kemet
+*****************************
+**********SONG INFO*********
+9
+song name: A Reptile's Dysfunction
+preview song: https://p.scdn.co/mp3-preview/0a73537ea08af3964f9577ae651ee6382c223971?cid=d50e4e63394e4eb2a9d5793679d49718
+album: The Predator
+artist(s): Ice Nine Kills
+*****************************
+**********SONG INFO*********
+10
+song name: My Queen Is Ada Eastman
+preview song: null
+album: Your Queen Is A Reptile
+artist(s): Sons Of Kemet
+*****************************
+**********SONG INFO*********
+11
+song name: Gamer Time
+preview song: https://p.scdn.co/mp3-preview/79d771c5796ba12d6adb08719c95f4c8857a730b?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Gamer Time
+artist(s): Grandayy
+*****************************
+**********SONG INFO*********
+12
+song name: Reptile Show
+preview song: https://p.scdn.co/mp3-preview/5df6b0aee499ba1c4c89b7dd17f2ab8288f2d0b7?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Reptile Show
+artist(s): Slim Wednesday
+*****************************
+**********SONG INFO*********
+13
+song name: To Trixie And Reptile, Thanks For Everything
+preview song: https://p.scdn.co/mp3-preview/539ea9bd04b5964c299b06d15af7fe2f539f3f25?cid=d50e4e63394e4eb2a9d5793679d49718
+album: All's Well That Ends Well
+artist(s): Chiodos
+*****************************
+**********SONG INFO*********
+14
+song name: Reptile's Theme
+preview song: null
+album: Mortal Kombat: Songs Inspired By The Warriors
+artist(s): Skrillex
+*****************************
+**********SONG INFO*********
+15
+song name: Reptile
+preview song: https://p.scdn.co/mp3-preview/9ae1a73793e61934efbf8bc822f40544fe21d4c9?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Cannibal
+artist(s): Static-X
+*****************************
+**********SONG INFO*********
+16
+song name: Reptile
+preview song: https://p.scdn.co/mp3-preview/a2f2d844d40cc43b1d4574c0ea08abede27cc6a0?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Butterfly
+artist(s): Thornhill
+*****************************
+**********SONG INFO*********
+17
+song name: My Queen Is Anna Julia Cooper
+preview song: null
+album: Your Queen Is A Reptile
+artist(s): Sons Of Kemet
+*****************************
+**********SONG INFO*********
+18
+song name: My Queen Is Mamie Phipps Clark
+preview song: null
+album: Your Queen Is A Reptile
+artist(s): Sons Of Kemet
+*****************************
+**********SONG INFO*********
+19
+song name: Reptile
+preview song: https://p.scdn.co/mp3-preview/95a185b5bd813826baf5eed516970022acf32e4d?cid=d50e4e63394e4eb2a9d5793679d49718
+album: Starfish (Deluxe Edition)
+artist(s): The Church
+*****************************
+**********EVENT INFO*********
+0
+Name of the Venue: PlayStation Theater
+Venue Location: New York
+Date of the Event: 2019-04-12T19:00:38
+*****************************
+**********EVENT INFO*********
+1
+Name of the Venue: Franklin Music Hall
+Venue Location: Philadelphia
+Date of the Event: 2019-04-13T19:00:18
+*****************************
+**********EVENT INFO*********
+2
+Name of the Venue: The Palladium
+Venue Location: Worcester
+Date of the Event: 2019-04-14T19:00:50
+*****************************
+**********EVENT INFO*********
+3
+Name of the Venue: Agora Theater
+Venue Location: Cleveland
+Date of the Event: 2019-04-16T19:00:31
+*****************************
+**********EVENT INFO*********
+4
+Name of the Venue: Royal Oak Music Theatre
+Venue Location: Royal Oak
+Date of the Event: 2019-04-17T19:00:28
+*****************************
+**********EVENT INFO*********
+5
+Name of the Venue: House of Blues
+Venue Location: Chicago
+Date of the Event: 2019-04-18T19:00:12
+*****************************
+**********EVENT INFO*********
+6
+Name of the Venue: House of Blues
+Venue Location: Chicago
+Date of the Event: 2019-04-19T19:00:45
+*****************************
+**********EVENT INFO*********
+7
+Name of the Venue: EXPRESS LIVE!
+Venue Location: Columbus
+Date of the Event: 2019-04-20T19:00:57
+*****************************
+**********EVENT INFO*********
+8
+Name of the Venue: Plaza Condesa
+Venue Location: Mexico City
+Date of the Event: 2019-06-02T19:00:26
+*****************************
+**********EVENT INFO*********
+9
+Name of the Venue: Ace Of Spades
+Venue Location: Bogotá
+Date of the Event: 2019-06-04T19:00:16
+*****************************
+**********EVENT INFO*********
+10
+Name of the Venue: Teatro Flores
+Venue Location: Buenos Aires
+Date of the Event: 2019-06-06T19:00:04
+*****************************
+**********EVENT INFO*********
+11
+Name of the Venue: Blondie
+Venue Location: Santiago
+Date of the Event: 2019-06-07T19:00:55
+*****************************
+**********EVENT INFO*********
+12
+Name of the Venue: Carioca Club
+Venue Location: São Paulo
+Date of the Event: 2019-06-09T19:00:19
+*****************************
