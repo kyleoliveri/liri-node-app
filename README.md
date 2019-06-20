@@ -14,6 +14,6 @@
     - do-what-it-says
         - When you run the following command: node liri.js do-what-it-says, Liri was read all of the text in the random.txt file and perform the command listed.
 
-# Here is a link to see a screen-capture of me demonstrating Liri:
+## Here is a link to see a screen-capture of me demonstrating Liri:
 
     - Watch here: https://drive.google.com/file/d/1sn47xTq6MbAtqWL0ANqr37zkcRRwjVTH/view?usp=sharing
