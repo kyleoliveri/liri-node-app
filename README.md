@@ -16,4 +16,4 @@
 
 ## Here is a link to see a screen-capture of me demonstrating Liri:
 
-    - Watch here: https://drive.google.com/file/d/1sn47xTq6MbAtqWL0ANqr37zkcRRwjVTH/view?usp=sharing
+    - Watch here: https://drive.google.com/file/d/1sn47xTq6MbAtqWL0ANqr37zkcRRwjVTH/view
